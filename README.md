@@ -40,10 +40,6 @@ CleanerGuy isn't just a cleaning service; it's a Services and Reviews Website th
 - **Best Color Combination**: Aesthetically pleasing and visually harmonious design.
 
 
-## Contributors
-
-- [Your Name]
-- [Additional Contributors]
 
 
 
